@@ -1,4 +1,4 @@
-# Instashell v1.5.4
+# Instashell v2.0
 ## Author: github.com/g0r60n
 ## IG: instagram.com/g0r60n
 ### Don't copy this code without give me the credits, nerd! 
